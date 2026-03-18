@@ -75,15 +75,6 @@ Linux (RHEL, Ubuntu)
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=datta2002&show_icons=true&theme=tokyonight" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=datta2002&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ### 💡 Quote
 
 🚀 *"Practice + Knowledge = Success"*
