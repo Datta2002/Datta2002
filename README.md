@@ -37,12 +37,6 @@ Linux (RHEL, Ubuntu)
 
 ### 💼 Work Experience
 
-**Web Development Intern**  
-Orizzonte Consultancy Services (OCS) | Mar 2024 – Sep 2024  
-- Developed web applications using **Django, HTML, CSS**  
-- Learned **web vulnerabilities and security basics**  
-- Implemented backend features and email functionality  
-
 **Associate Java Developer & Trainer**  
 - Developed backend applications using **Java & Spring Boot**  
 - Trained students in **Java, problem-solving, and backend concepts**  
@@ -54,14 +48,6 @@ Orizzonte Consultancy Services (OCS) | Mar 2024 – Sep 2024
 🔹 **Igniter Zone – Online Test Platform**  
 - Built using **Spring Boot, Angular, MySQL**  
 - Implemented REST APIs, authentication, and result management  
-
-🔹 **Cloud-Based Digital Audiometer**  
-- ML-based system using **Python, Random Forest, NumPy, Pandas**  
-- Built dashboard for real-time analysis  
-
-🔹 **Ticketless Entry System**  
-- Web-based system using **HTML, CSS, JavaScript, MySQL**  
-
 ---
 
 ### 🏆 Achievements
@@ -84,9 +70,6 @@ Orizzonte Consultancy Services (OCS) | Mar 2024 – Sep 2024
 <p align="left">
 <a href="https://www.linkedin.com/in/dattatray-dudhamogre" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" height="30" width="40"/>
-</a>
-<a href="https://github.com/datta2002" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" height="30" width="40"/>
 </a>
 </p>
 
